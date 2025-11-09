@@ -1,4 +1,4 @@
-# Machine Learning Concepts — Visual Guide
+# Machine Learning Concepts: Visual Guide
 
 This repo is my attempt to turn all the major ML concepts into clean visualizations.  
 Instead of long theory notes, every topic has a plot or interactive example so the idea sticks faster.
