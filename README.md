@@ -74,7 +74,7 @@ The notebook walks through ML in the same order most people learn it, starting f
 Just open the notebook: Machine_Learning_Concepts.ipynb
 Run it top to bottom.  
 Each section has markdown + code + visualization right after it.  
-No external dataset needed — everything is generated inside.
+No external dataset needed, everything is generated inside.
 
 ---
 
